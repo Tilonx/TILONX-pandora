@@ -1,7 +1,7 @@
 # PANDORA
 
 <p align="center">
-<img src="https://img.shields.io/badge/build-MrSanZz-badge?style=flat-square&logo=bitcoin&logoColor=yellow&label=Author&labelColor=grey&color=yellow"><br>
+<img src="https://img.shields.io/badge/build-Tilonx-badge?style=flat-square&logo=bitcoin&logoColor=yellow&label=Author&labelColor=grey&color=yellow"><br>
 <img width="225" height="225" src="https://bnhsec.000webhostapp.com/a/ublpyf.jpg"><br>Donate Me :).. (Payment : Dana)<br><br>
 <img src="https://th.bing.com/th/id/OIP.dcdTLANDPGPrcgbXBnBWjAHaEK?rs=1&pid=ImgDetMain" style="height: 5%; width: 55%;"><br>
 <img src="https://kosred.com/a/pvwnwx.png" style="height: 30%; width: 30%;"><br>
@@ -60,7 +60,7 @@
     4. apt install git
     5. apt install python3-pip
     6. apt install python2 && apt install python3
-    7. git clone https://github.com/MrSanZz/pandora
+    7. git clone https://github.com/Tilonx/Tilonx-pandora
     8. cd pandora
     9. pip3 install -r requirements.txt
     10. python3 pandora.py
@@ -75,7 +75,7 @@
     4. apt install python3-pip
     5. apt install python3
     6. apt install git
-    7. git clone https://github.com/MrSanZz/pandora
+    7. git clone https://github.com/Tilonx/Tilonx-pandora
     8. cd pandora
     9. pip3 install -r requirements.txt
     10. python3 pandora.py
@@ -89,7 +89,7 @@
     4. pkg install python3
     5. pkg install git
     6. pkg install figlet
-    7. git clone https://github.com/MrSanZz/pandora
+    7. git clone https://github.com/Tilonx/Tilonx-pandora
     8. cd pandora
     9. pip3 install -r requirements.txt
     10. python3 pandora.py
